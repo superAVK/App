@@ -1,2 +1,2 @@
 # first_project
-Repo for first project
+This repo will include first mobile app.
